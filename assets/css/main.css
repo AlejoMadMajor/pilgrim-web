@@ -2923,7 +2923,7 @@ a.icon.alt:active:before {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
+			background-color: #062A3C;
 		}
 
 			.spotlights > section > .image {
@@ -2985,7 +2985,7 @@ a.icon.alt:active:before {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+				background-color: #0C1241;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3230,7 +3230,7 @@ a.icon.alt:active:before {
 			}
 
 			#header.alt.style2 .logo strong {
-				color: #8d82c4;
+				color: #95BF47;
 			}
 
 			#header.alt.style3 .logo strong {
@@ -3466,7 +3466,7 @@ a.icon.alt:active:before {
 		}
 
 		#banner.style2:after {
-			background-color: #8d82c4;
+			background-color: #95BF47;
 		}
 
 		#banner.style3:after {
