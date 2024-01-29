@@ -1,0 +1,16 @@
+# Local config files
+config.local.json
+
+# Temporal files and generated
+*.tmp
+*.log
+.cache
+
+# Directory
+dist
+
+# System files
+Thumbs.db
+
+# Netlify
+.netlify
