@@ -160,7 +160,7 @@
 				<section id="contact">
 					<div class="inner">
 						<section>
-							<form method="post" action="#">
+							<form name="form-contact" method="POST" data-netlify="true" data-netlify-recaptcha="true" >
 								<div class="fields">
 									<div class="field half">
 										<label for="name">Nombre</label>
@@ -175,6 +175,7 @@
 										<textarea name="message" id="message" rows="6"></textarea>
 									</div>
 								</div>
+								<div data-netlify-recaptcha="true"></div>
 								<ul class="actions">
 									<li><input type="submit" value="Enviar Mensaje" class="primary" /></li>
 									<li><input type="reset" value="Limpiar" /></li>
